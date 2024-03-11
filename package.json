@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "pg": "^8.11.3",
+    "pg-promise": "^11.5.4"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.11.2"
+  }
+}
